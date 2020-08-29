@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+    background-image: linear-gradient(-20deg, #d558c8 0%, #24d292 100%);
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+
+.icon-block {
+    padding: 0 15px;
+}
+  .icon-block .material-icons {
+    font-size: inherit;
+}
+
+
+footer {
+    color: aqua;
+}
